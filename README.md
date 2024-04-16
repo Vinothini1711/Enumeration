@@ -76,8 +76,8 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 ## OUTPUT:
-![WhatsApp Image 2024-04-15 at 10 05 33 PM (1)](https://github.com/Vinothini1711/Echoserver/assets/144300204/df5d0ada-600a-4ec5-9edc-e5a7b3142ce3)
-
+![WhatsApp Image 2024-04-16 at 9 42 20 AM (1)](https://github.com/Vinothini1711/Echoserver/assets/144300204/d14cf8f3-3c60-4d3e-a0ce-fe10b30a481c)
+![WhatsApp Image 2024-04-16 at 9 42 20 AM](https://github.com/Vinothini1711/Echoserver/assets/144300204/9d0f93a4-d765-4fd8-9279-7d8b2e5dfec2)
 ## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 ## OUTPUT:
